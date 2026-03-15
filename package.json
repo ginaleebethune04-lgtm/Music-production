@@ -1,0 +1,22 @@
+{
+  "name": "music-production",
+  "version": "1.0.0",
+  "description": "Music worldwide",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginaleebethune04-lgtm/Music-production.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC0-1.0",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ginaleebethune04-lgtm/Music-production/issues"
+  },
+  "homepage": "https://github.com/ginaleebethune04-lgtm/Music-production#readme"
+}
